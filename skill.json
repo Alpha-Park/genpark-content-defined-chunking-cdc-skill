@@ -1,0 +1,15 @@
+{
+  "name": "genpark-content-defined-chunking-cdc-skill",
+  "version": "1.0.0",
+  "description": "FastCDC content-defined chunking (CDC) deduplication engine with rolling hash boundary detection and min/max chunk size limits.",
+  "tags": [
+    "genpark-skill",
+    "agentic-ai",
+    "cdc",
+    "fastcdc",
+    "deduplication",
+    "storage-systems"
+  ],
+  "entrypoint": "client.py",
+  "dependencies": []
+}
